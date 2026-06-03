@@ -5,6 +5,6 @@
   "date": "2026-06-03",
   "category": "World News",
   "tags": ["news", "world", "daily-roundup"],
-  "coverImage": "/images/world-news-default.jpg",
+  "coverImage": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1600&q=80",
   "excerpt": "A concise roundup of major global developments including geopolitics, business, transportation, gaming, and sports."
 }
