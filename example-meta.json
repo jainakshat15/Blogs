@@ -1,0 +1,14 @@
+{
+  "id": "example-post-id",
+  "title": "Example Blog Title",
+  "slug": "example-blog-title",
+  "date": "2026-06-03",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "ai",
+    "software-engineering"
+  ],
+  "coverImage": "https://example.com/image.webp",
+  "excerpt": "Short summary of the article."
+}
