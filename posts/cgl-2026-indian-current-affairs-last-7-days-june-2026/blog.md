@@ -1,305 +1,210 @@
-# CGL 2026 Current Affairs: Important Indian News & Exam Notes (Last 7 Days)
+# CGL 2026 Current Affairs: Verified Indian News from the Last 7 Days (27 May - 3 June 2026)
 
 ![Cover Image](https://images.unsplash.com/photo-1524492412937-b28074a5d7da)
 
 ## Introduction
 
-For SSC CGL 2026 aspirants, current affairs can be the fastest scoring area in the General Awareness section. The trick is not memorizing every headline but identifying developments that are likely to be converted into objective questions.
+This weekly SSC CGL 2026 current affairs roundup covers important Indian developments between 27 May and 3 June 2026. The focus is on news that has a realistic chance of appearing in SSC CGL, CHSL, CPO, MTS, Railways and State PCS examinations.
 
-This weekly roundup focuses on major themes that frequently appear in SSC examinations: economy, governance, science and technology, defence, agriculture, environment, international relations and sports.
-
----
-
-## Economy and Banking Updates
-
-### Why This Matters
-Questions related to RBI, inflation, government finances, economic surveys and banking reforms regularly appear in SSC examinations.
-
-### Topics to Revise
-
-- Reserve Bank of India (RBI)
-- Monetary Policy Committee (MPC)
-- Inflation and CPI
-- Digital Payments Ecosystem
-- Financial Inclusion
-
-### Exam-Oriented Notes
-
-**RBI Headquarters:** Mumbai
-
-**Functions of RBI:**
-- Monetary policy
-- Currency issuance
-- Banking regulation
-- Foreign exchange management
-
-### Possible SSC Question
-Who regulates monetary policy in India?
-
-**Answer:** Reserve Bank of India.
+Rather than simply listing headlines, this article explains the background, static GK and probable exam questions.
 
 ---
 
-## Defence and National Security
+## 1. RBI Monetary Policy Committee Meeting Begins
 
-India continues expanding indigenous defence manufacturing capabilities under Atmanirbhar Bharat.
+One of the most important developments of the week is the June 2026 Monetary Policy Committee (MPC) meeting of the Reserve Bank of India.
 
-### Important Areas
+The three-day meeting began amid concerns regarding crude oil prices, inflation and pressure on the Indian rupee. Governor Sanjay Malhotra is expected to announce the policy outcome after the meeting concludes. Economists largely expect the repo rate to remain unchanged at 5.25%. citeturn0news2turn0news3turn0news4
 
-- Defence exports
-- Indigenous missiles
-- Drone technologies
-- Naval modernization
-- Domestic manufacturing initiatives
+### SSC CGL Notes
+
+- RBI Headquarters: Mumbai
+- RBI Governor: Sanjay Malhotra
+- Monetary Policy Committee decides policy rates.
+- Repo Rate is the rate at which RBI lends to commercial banks.
+
+### Expected Question
+
+Which body determines the repo rate in India?
+
+Answer: Monetary Policy Committee (MPC).
+
+---
+
+## 2. RBI Rejects Reports of Gold Reserve Sale
+
+On 3 June 2026, the Reserve Bank of India clarified that reports claiming the central bank had sold gold reserves were incorrect. RBI stated that its physical gold stock remains unchanged at 880.52 tonnes. The clarification became significant because India's foreign exchange reserves had recently declined, leading to speculation regarding gold sales. citeturn0news0
+
+### Why Important for Exams?
+
+Questions related to:
+
+- Foreign Exchange Reserves
+- RBI Functions
+- Gold Reserves
+- Monetary Stability
+
+can be framed from this development.
+
+---
+
+## 3. Rupee Remains Under Pressure Amid Global Uncertainty
+
+The Indian rupee witnessed volatility due to rising global oil prices and geopolitical tensions in West Asia. RBI intervention helped limit excessive depreciation. Financial markets are closely monitoring both inflation risks and future monetary policy decisions. citeturn0news1turn0news3
 
 ### Static GK Revision
 
-| Topic | Fact |
-|---------|---------|
-| DRDO Headquarters | New Delhi |
-| CDS Position | Chief of Defence Staff |
-| Ministry | Ministry of Defence |
-
-### SSC Preparation Tip
-Questions often combine a current defence development with static facts about organizations.
+- India's currency: Indian Rupee
+- Currency regulator: RBI
+- Foreign exchange reserves are maintained by RBI.
 
 ---
 
-## Science and Technology
+## 4. India-Australia Defence Cooperation Expands
 
-### Digital India
+India and Australia agreed to begin work on a Memorandum of Understanding covering defence articles and defence services after the second India-Australia Defence Ministers' Dialogue held on 1 June 2026. The move highlights growing strategic cooperation between the two Indo-Pacific partners. citeturn0news6
 
-Digital governance remains one of India's biggest transformation initiatives.
+### Exam Relevance
 
-Important areas include:
+Remember:
 
-- Artificial Intelligence
-- Digital Public Infrastructure
-- UPI Expansion
-- Cybersecurity
-- Data Governance
+- Australia is an important Indo-Pacific partner.
+- India and Australia cooperate through QUAD.
+- Defence diplomacy frequently appears in competitive examinations.
 
-### Quick Facts
+### Related Static GK
 
-- Digital India launched in 2015.
-- UPI is operated by NPCI.
-- Aadhaar is managed by UIDAI.
+QUAD Members:
 
----
-
-## International Relations
-
-### Key Organizations to Revise
-
-1. G20
-2. BRICS
-3. SCO
-4. QUAD
-5. BIMSTEC
-
-### Why Important?
-
-SSC frequently asks:
-
-- Headquarters
-- Member countries
-- Founding year
-- Objectives
-
-### Example
-
-BRICS originally consisted of:
-
-- Brazil
-- Russia
-- India
-- China
-- South Africa
+1. India
+2. Australia
+3. Japan
+4. United States
 
 ---
 
-## Agriculture and Rural Development
+## 5. Exercise PRAGATI 2026 Concludes in Meghalaya
 
-Agriculture remains one of the most important sectors for competitive examinations.
+The Indian Army concluded Exercise PRAGATI 2026 at Umroi, Meghalaya. The exercise involved military contingents from 13 nations and focused on interoperability, cooperation and joint training. Such multinational military exercises are increasingly important for India's defence diplomacy. citeturn0news7
 
-### Schemes to Remember
+### SSC CGL Focus
 
-#### PM-KISAN
+Possible questions may cover:
 
-Provides income support to eligible farmers.
+- Location of exercise
+- Participating countries
+- Purpose of multinational military exercises
 
-#### e-NAM
+### Remember
 
-Electronic National Agriculture Market platform.
+State: Meghalaya
 
-#### MSP
+Location: Umroi
 
-Minimum Support Price mechanism.
-
-### Kharif Crops
-
-- Rice
-- Maize
-- Cotton
-
-### Rabi Crops
-
-- Wheat
-- Gram
-- Mustard
+Organiser: Indian Army
 
 ---
 
-## Environment and Climate
+## 6. GDP and Growth Data in Focus
 
-### Important Topics
+Markets and policymakers are closely watching India's January-March GDP figures. Analysts expect strong growth performance compared with many major economies. GDP announcements are important because they influence fiscal planning, monetary policy and investment sentiment. citeturn0news3
 
-- Renewable Energy
-- Solar Power
-- Climate Commitments
-- Sustainable Development
+### Static GK
 
-### Must Revise
+GDP = Gross Domestic Product
 
-#### International Solar Alliance
-
-Jointly launched by India and France.
-
-#### National Green Tribunal
-
-Specialized body dealing with environmental matters.
+It measures the total value of goods and services produced within a country.
 
 ---
 
-## Governance and Government Schemes
+## 7. Export Sector Support Continues
 
-### High Priority Schemes
+India's export sector remains important amid global geopolitical disruptions. RBI's previously announced export credit relief measures continue to support exporters facing supply-chain and trade-related challenges. Understanding export promotion measures is useful for economy-related questions. citeturn0news8
 
-- PM-KISAN
-- Ayushman Bharat
-- PM Awas Yojana
-- Jal Jeevan Mission
-- Skill India
-- Startup India
+### Terms to Revise
 
-### Revision Strategy
-
-For every scheme remember:
-
-1. Launch year
-2. Ministry
-3. Objective
-4. Target beneficiaries
+- Export Credit
+- Balance of Trade
+- Foreign Exchange Earnings
+- Current Account Deficit
 
 ---
 
-## Sports Current Affairs
+## High-Probability One-Liners for SSC CGL 2026
 
-### Areas to Follow
-
-- Cricket tournaments
-- Olympic preparation
-- International medals
-- National sports initiatives
-
-### Important Organizations
-
-- Sports Authority of India (SAI)
-- Indian Olympic Association (IOA)
-
-### Government Initiative
-
-Khelo India aims to strengthen grassroots sports infrastructure.
+1. RBI's physical gold stock remains 880.52 tonnes.
+2. RBI Monetary Policy Committee meeting began in June 2026.
+3. Repo rate is expected to remain at 5.25% according to most economists.
+4. India and Australia agreed to develop an MoU on defence articles and services.
+5. Exercise PRAGATI 2026 concluded in Umroi, Meghalaya.
+6. RBI regulates monetary policy in India.
+7. QUAD consists of India, Australia, Japan and the United States.
+8. Foreign exchange reserves are maintained by RBI.
+9. GDP stands for Gross Domestic Product.
+10. Defence diplomacy remains a major component of India's foreign policy.
 
 ---
 
-## Important One-Liners for SSC CGL 2026
+## Static GK Connected to This Week's News
 
-1. RBI headquarters is Mumbai.
-2. UPI is operated by NPCI.
-3. UIDAI manages Aadhaar.
-4. DRDO headquarters is New Delhi.
-5. PM-KISAN is a farmer support scheme.
-6. International Solar Alliance was launched by India and France.
-7. National Green Tribunal deals with environmental disputes.
-8. Khelo India promotes sports development.
-9. BRICS is an important international grouping.
-10. Digital India was launched in 2015.
+| Current Affair | Static GK Topic |
+|---------------|---------------|
+| RBI MPC Meeting | Monetary Policy Committee |
+| Gold Reserve Clarification | Foreign Exchange Reserves |
+| India-Australia Dialogue | QUAD |
+| Exercise PRAGATI | Indian Army Exercises |
+| GDP Release | National Income Accounting |
 
 ---
 
-## Sample Revision Notes Format
+## Code Snippet: Quick Revision Format
 
 ```text
-Topic: Digital India
-Launch Year: 2015
-Objective: Digital Governance
-Related Bodies: MeitY, NPCI, UIDAI
+Topic: RBI MPC Meeting
+Governor: Sanjay Malhotra
+Institution: Reserve Bank of India
+Focus Areas: Inflation, Growth, Interest Rates
+Exam Importance: Very High
+```
+
+```text
+Topic: India-Australia Defence Dialogue
+Countries: India and Australia
+Area: Defence Cooperation
+Related Grouping: QUAD
 Exam Importance: High
 ```
-
-```text
-Topic: PM-KISAN
-Sector: Agriculture
-Beneficiaries: Eligible Farmers
-Importance: Government Schemes
-```
-
----
-
-## 7-Day Revision Plan for SSC CGL Aspirants
-
-### Day 1
-Economy and Banking
-
-### Day 2
-Government Schemes
-
-### Day 3
-International Relations
-
-### Day 4
-Science and Technology
-
-### Day 5
-Defence
-
-### Day 6
-Environment
-
-### Day 7
-Sports and Full Revision
 
 ---
 
 ## Key Takeaways
 
-- Economy and RBI updates remain highly important.
-- Defence and indigenous manufacturing are recurring themes.
-- Government schemes must be revised repeatedly.
-- International organizations frequently appear in SSC exams.
-- Science and technology questions are increasing every year.
-- Weekly revision is more effective than monthly revision.
+- RBI monetary policy remains the biggest economy-related story of the week.
+- RBI officially denied reports of gold reserve sales.
+- India-Australia defence cooperation strengthened further.
+- Exercise PRAGATI 2026 highlighted multinational military cooperation.
+- GDP and growth data remain important economic indicators.
+- Candidates should revise RBI, QUAD, defence exercises and economic terminology.
 
 ---
 
-## Frequently Asked Questions
+## FAQ
 
-### How many months of current affairs should I study for SSC CGL 2026?
+### Which news item is most important for SSC CGL from this week?
 
-At least 8 to 12 months before the examination.
+The RBI Monetary Policy Committee meeting is the most important because it combines current affairs with frequently asked static GK topics.
 
-### Are government schemes important for SSC CGL?
+### Why is the India-Australia defence dialogue important?
 
-Yes. Government schemes are among the most frequently asked topics.
+It reflects India's growing role in Indo-Pacific security cooperation and is linked to QUAD, a frequently asked topic.
 
-### Should I study static GK along with current affairs?
+### Should I memorize numerical economic data?
 
-Yes. Most examination questions connect current developments with static facts.
+Focus on major figures, institutions and concepts rather than every market movement.
 
-### Is reading newspapers enough?
+### How should I revise weekly current affairs?
 
-Newspapers are useful, but revision notes and mock tests are equally important.
+Create one-page notes containing organizations, headquarters, schemes, exercises and international groupings.
 
 ---
 
@@ -309,10 +214,10 @@ Newspapers are useful, but revision notes and mock tests are equally important.
 - https://pib.gov.in
 - https://rbi.org.in
 - https://mea.gov.in
-- https://drdo.gov.in
+- https://mod.gov.in
 
 ---
 
 ## Conclusion
 
-SSC CGL 2026 preparation rewards consistency more than intensity. Candidates who revise current affairs every week and connect them with static general knowledge build a significant advantage over competitors. Use this roundup as a revision sheet, maintain concise notes, and revisit important facts regularly. Small daily efforts compound into a strong General Awareness score on exam day.
+The week ending 3 June 2026 was dominated by RBI monetary policy developments, foreign exchange discussions, India-Australia defence cooperation and multinational military engagement through Exercise PRAGATI 2026. For SSC CGL 2026 aspirants, these developments are valuable because they connect current events with recurring examination themes such as RBI, defence, international relations and economic indicators. Regular weekly revision of such topics can significantly improve performance in the General Awareness section.
