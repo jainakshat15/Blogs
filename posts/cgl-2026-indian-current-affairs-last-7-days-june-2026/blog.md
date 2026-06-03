@@ -14,7 +14,7 @@ Rather than simply listing headlines, this article explains the background, stat
 
 One of the most important developments of the week is the June 2026 Monetary Policy Committee (MPC) meeting of the Reserve Bank of India.
 
-The three-day meeting began amid concerns regarding crude oil prices, inflation and pressure on the Indian rupee. Governor Sanjay Malhotra is expected to announce the policy outcome after the meeting concludes. Economists largely expect the repo rate to remain unchanged at 5.25%. citeturn0news2turn0news3turn0news4
+The three-day meeting began amid concerns regarding crude oil prices, inflation and pressure on the Indian rupee. Governor Sanjay Malhotra is expected to announce the policy outcome after the meeting concludes. Economists largely expect the repo rate to remain unchanged at 5.25%.
 
 ### SSC CGL Notes
 
@@ -33,7 +33,7 @@ Answer: Monetary Policy Committee (MPC).
 
 ## 2. RBI Rejects Reports of Gold Reserve Sale
 
-On 3 June 2026, the Reserve Bank of India clarified that reports claiming the central bank had sold gold reserves were incorrect. RBI stated that its physical gold stock remains unchanged at 880.52 tonnes. The clarification became significant because India's foreign exchange reserves had recently declined, leading to speculation regarding gold sales. citeturn0news0
+On 3 June 2026, the Reserve Bank of India clarified that reports claiming the central bank had sold gold reserves were incorrect. RBI stated that its physical gold stock remains unchanged at 880.52 tonnes. The clarification became significant because India's foreign exchange reserves had recently declined, leading to speculation regarding gold sales.
 
 ### Why Important for Exams?
 
@@ -50,7 +50,7 @@ can be framed from this development.
 
 ## 3. Rupee Remains Under Pressure Amid Global Uncertainty
 
-The Indian rupee witnessed volatility due to rising global oil prices and geopolitical tensions in West Asia. RBI intervention helped limit excessive depreciation. Financial markets are closely monitoring both inflation risks and future monetary policy decisions. citeturn0news1turn0news3
+The Indian rupee witnessed volatility due to rising global oil prices and geopolitical tensions in West Asia. RBI intervention helped limit excessive depreciation. Financial markets are closely monitoring both inflation risks and future monetary policy decisions.
 
 ### Static GK Revision
 
@@ -62,7 +62,7 @@ The Indian rupee witnessed volatility due to rising global oil prices and geopol
 
 ## 4. India-Australia Defence Cooperation Expands
 
-India and Australia agreed to begin work on a Memorandum of Understanding covering defence articles and defence services after the second India-Australia Defence Ministers' Dialogue held on 1 June 2026. The move highlights growing strategic cooperation between the two Indo-Pacific partners. citeturn0news6
+India and Australia agreed to begin work on a Memorandum of Understanding covering defence articles and defence services after the second India-Australia Defence Ministers' Dialogue held on 1 June 2026. The move highlights growing strategic cooperation between the two Indo-Pacific partners.
 
 ### Exam Relevance
 
@@ -85,7 +85,7 @@ QUAD Members:
 
 ## 5. Exercise PRAGATI 2026 Concludes in Meghalaya
 
-The Indian Army concluded Exercise PRAGATI 2026 at Umroi, Meghalaya. The exercise involved military contingents from 13 nations and focused on interoperability, cooperation and joint training. Such multinational military exercises are increasingly important for India's defence diplomacy. citeturn0news7
+The Indian Army concluded Exercise PRAGATI 2026 at Umroi, Meghalaya. The exercise involved military contingents from 13 nations and focused on interoperability, cooperation and joint training. Such multinational military exercises are increasingly important for India's defence diplomacy.
 
 ### SSC CGL Focus
 
@@ -107,7 +107,7 @@ Organiser: Indian Army
 
 ## 6. GDP and Growth Data in Focus
 
-Markets and policymakers are closely watching India's January-March GDP figures. Analysts expect strong growth performance compared with many major economies. GDP announcements are important because they influence fiscal planning, monetary policy and investment sentiment. citeturn0news3
+Markets and policymakers are closely watching India's January-March GDP figures. Analysts expect strong growth performance compared with many major economies. GDP announcements are important because they influence fiscal planning, monetary policy and investment sentiment.
 
 ### Static GK
 
@@ -119,7 +119,7 @@ It measures the total value of goods and services produced within a country.
 
 ## 7. Export Sector Support Continues
 
-India's export sector remains important amid global geopolitical disruptions. RBI's previously announced export credit relief measures continue to support exporters facing supply-chain and trade-related challenges. Understanding export promotion measures is useful for economy-related questions. citeturn0news8
+India's export sector remains important amid global geopolitical disruptions. RBI's previously announced export credit relief measures continue to support exporters facing supply-chain and trade-related challenges. Understanding export promotion measures is useful for economy-related questions.
 
 ### Terms to Revise
 
